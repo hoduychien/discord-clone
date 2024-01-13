@@ -1,5 +1,11 @@
+import AppRouter from './provider/AppRouter';
+
 const App = () => {
-  return <div className='bg-custom'>App</div>;
+  return (
+    <>
+      <AppRouter />
+    </>
+  );
 };
 
 export default App;
