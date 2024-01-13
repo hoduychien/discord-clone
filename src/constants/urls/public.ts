@@ -1,3 +1,5 @@
-const PUBLIC_URL = {};
+const PUBLIC_URL = {
+  login: '/login'
+};
 
 export default PUBLIC_URL;
